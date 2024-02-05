@@ -1,19 +1,31 @@
-- 👋 Hi, I’m @Tshepangnkwe
-- 👀 I’m interested in motorsports and SciTech.
-- 🌱 I’m currently learning C++, it is kinda complicated.
-- 💞️ I’m looking to collaborate on exciting projects that combine technology and innovation.
+### Hi there, I'm @Tshepangnkwe! 👋
+
+- 🔭 I’m currently working on mastering C++.
+- 🌱 I’m currently learning algorithms and data structures.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with understanding advanced topics in computer science.
+- 💬 Ask me about anything related to motorsports, technology, or climate advocacy.
 - 📫 How to reach me: [Your preferred method of contact]
 
-Passionate about Embedded Systems, intelligent systems, and Entrepreneurship. Python and C/C++ enthusiast. Committed to innovation, creativity, and leveraging technology for positive change.
+---
 
-As a climate advocate, I'm deeply committed to raising awareness about environmental issues and promoting sustainable practices. I believe that technology plays a crucial role in mitigating climate change and building a greener future for our planet.
+#### About Me
 
-In my free time, I love walking around the park, connecting with nature, and enjoying the simple pleasures of life. It's a refreshing way to recharge my mind and body, and it inspires me to explore how we can integrate principles of sustainability and conservation into our daily lives and technological endeavours.
+I'm a passionate tech enthusiast with a deep interest in motorsports, SciTech, and climate advocacy. I believe in leveraging technology for positive change and am dedicated to exploring innovative solutions to global challenges.
 
-In addition to advocating for the environment and exploring the latest advancements in science and technology, I'm also passionate about motorsports and the thrill of innovation on and off the track.
+#### Free Time Fun
 
-Let's collaborate and harness the power of technology to create a more sustainable, inclusive, and vibrant world!
+```python
+class ParkWalker:
+    def __init__(self, name):
+        self.name = name
 
+    def enjoy_park_walk(self):
+        print(f"{self.name} loves walking around the park and connecting with nature.")
+
+# Create an instance of ParkWalker
+tshepang = ParkWalker("Tshepangnkwe")
+tshepang.enjoy_park_walk()
 
 <!---
 Tshepangnkwe/Tshepangnkwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
