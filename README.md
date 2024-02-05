@@ -27,7 +27,4 @@ def about_me():
 # Connect with me and let's explore the world of technology together!
 about_me()
 
-<!---
-Tshepangnkwe/Tshepangnkwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
