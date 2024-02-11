@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Tshepangnkwe
 - 👀 I’m interested in motorsports.
-<-- 🌱 I’m currently learning C++, it is kinda complicated. -->
 - 💞️ I’m looking to collaborate on exciting projects that combine technology and innovation.
-<!-- 📫 How to reach me: [Your preferred method of contact] -->
 
 ```python
 def about_me():
