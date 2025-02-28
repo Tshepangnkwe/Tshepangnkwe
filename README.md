@@ -1,8 +1,8 @@
-<!-- Hero Image -->
-<img src="https://source.unsplash.com/1600x400/?technology,circuit" alt="Banner Image" width="100%">
+<!-- Hero Banner (Microchip) -->
+<!-- <img src="https://raw.githubusercontent.com/Tshepangnkwe/Tshepangnkwe/main/assets/Banner%20(Microchip.jpg)" alt="Microchip Banner" width="100%"> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Electronics+%7C+Embedded+Systems+%7C+ASICs+%7C+TinyML;Building+Sustainable+and+Efficient+Tech+Solutions" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Electronics+%7C+Embedded+Systems+%7C+ASICs+%7C+TinyML;Building+Sustainable+and+Efficient+Tech+Solutions" alt="Typing Animation">
 </p>
 
 ---
@@ -46,11 +46,5 @@ I am constantly **learning, building, and experimenting** with **embedded system
 📌 [LinkedIn](https://www.linkedin.com/in/tshepangnkwe/)  
 📌 📧 [Email](#)  
 
----
-<!-- Cool Porsche 911 GT3 RS Image -->
-<p align="center">
-  <img src="https://source.unsplash.com/1000x500/?porsche,911-gt3rs" alt="Porsche 911 GT3 RS">
-</p>
 
----
 🎯 **Happy learning & building!** 🚀  
