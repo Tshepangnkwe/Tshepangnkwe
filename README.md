@@ -30,7 +30,6 @@ I’m always eager to connect with other **tech enthusiasts**, **professionals**
 
 ### 📬 You Can Reach Me At:
 - [LinkedIn](https://www.linkedin.com/in/tshepangnkwe/)
-- [Email](mailto:youremail@example.com) (replace with your actual email)
 
 ---
 
