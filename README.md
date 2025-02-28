@@ -1,50 +1,50 @@
-<!-- Hero Banner (Microchip) -->
-<!-- <img src="https://raw.githubusercontent.com/Tshepangnkwe/Tshepangnkwe/main/assets/Banner%20(Microchip.jpg)" alt="Microchip Banner" width="100%"> -->
+# Hi, I'm Tshepang! 👋
+Welcome to my GitHub profile. I'm an **electronics enthusiast** diving deep into the world of **embedded systems**, **ASICs**, **SoCs**, and **TinyML**.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Electronics+%7C+Embedded+Systems+%7C+ASICs+%7C+TinyML;Building+Sustainable+and+Efficient+Tech+Solutions" alt="Typing Animation">
 </p>
 
----
+## 🚀 About Me
+I’m passionate about **technology** and **sustainability**, and I believe **embedded systems**, **ASICs**, and **TinyML** will play a major role in solving some of the world’s most pressing challenges. I’m focused on creating **practical**, **efficient**, and **environmentally conscious** tech solutions that empower people and improve lives.
 
-## 🚀 About Me  
+Currently, I’m exploring:
+- **Low-power systems**
+- **Machine learning at the edge**
+- **Efficient hardware design**
 
-Hi there! I'm **Tshepang**, an **electronics enthusiast** passionate about **embedded systems, ASICs, SoCs, and TinyML**. With a strong foundation in **electronic circuits** and **C++ programming**, I am on an exciting journey to explore **cutting-edge technology** and **sustainable innovation**.  
+## 🛠️ Technologies I'm Exploring
+- **Embedded Systems**: From microcontrollers to complex **SoCs**.
+- **ASICs**: Designing **application-specific integrated circuits**.
+- **TinyML**: Exploring **machine learning models** that run directly on microcontrollers.
+- **C++**: Writing optimised code for low-resource environments.
 
-🔹 **Believer in tech-driven sustainability**  
-🔹 **Passionate about solving real-world problems**  
-🔹 **Exploring the intersection of AI & Embedded Systems**  
+## 🌱 What I'm Learning
+- **Embedded system design** and **experimentation**.
+- **ASIC design** principles and tools.
+- **TinyML** deployment on microcontrollers.
+- Developing **sustainable tech** that makes a positive impact.
 
----
+## 💬 Let's Connect!
+I’m always eager to connect with other **tech enthusiasts**, **professionals**, and **researchers**. If you're interested in collaborating or exchanging ideas, feel free to reach out!
 
-## 🔧 Technologies I'm Exploring  
-
-✨ **Embedded Systems** → Low-power, high-efficiency computing  
-✨ **ASICs** → Custom chip design for specialised applications  
-✨ **SoCs** → System-on-Chip design and applications  
-✨ **TinyML** → Machine learning on microcontrollers  
-✨ **C++** → High-performance coding for embedded applications  
-
----
-
-## 🌱 My Learning Journey  
-
-I am constantly **learning, building, and experimenting** with **embedded systems, low-power hardware, and AI models for microcontrollers**. My repositories feature projects related to:  
-
-✔️ **Embedded System Design** & circuit prototyping  
-✔️ **ASIC Development** & chip design basics  
-✔️ **TinyML Projects** for AI at the edge  
-✔️ **Sustainable Tech Solutions** using smart electronics  
+### 📬 You Can Reach Me At:
+- [LinkedIn](https://www.linkedin.com/in/tshepangnkwe/)
+- [Email](mailto:youremail@example.com) (replace with your actual email)
 
 ---
 
-## 🌍 Let's Connect!  
+### 📂 My Repositories:
+Here are some of the exciting projects I’m working on:
+- **[Embedded System Design](link-to-repository)**: Experimenting with **hardware** and **low-level programming**.
+- **[ASIC Development](link-to-repository)**: Diving into **ASIC design tools** and exploring **hardware customization**.
+- **[TinyML Projects](link-to-repository)**: Deploying **machine learning models** on **microcontrollers** for edge computing.
 
-💡 I love collaborating with **fellow tech enthusiasts, professionals, and researchers**! Whether you’re an **expert** or an **explorer like me**, let's exchange ideas and build **innovative solutions** together.  
+---
 
-📬 **Reach out to me:**  
-📌 [LinkedIn](https://www.linkedin.com/in/tshepangnkwe/)  
-📌 📧 [Email](#)  
+### 🎯 Fun Fact:
+When I'm not immersed in **electronics** and **programming**, you’ll often find me **watching F1** or indulging in **Science Fiction films and series**. Whether it's the thrill of the race or the imaginative world of Sci-Fi, both fuel my curiosity for **innovation** and **technology**.
 
+---
 
-🎯 **Happy learning & building!** 🚀  
+Happy learning and building! 😊
