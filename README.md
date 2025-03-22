@@ -35,9 +35,9 @@ I’m always eager to connect with other **tech enthusiasts**, **professionals**
 
 ### 📂 My Repositories:
 Here are some of the exciting projects I’m working on:
-- **[Embedded System Design](link-to-repository)**: Experimenting with **hardware** and **low-level programming**.
+- **[Embedded System Design](https://github.com/Tshepangnkwe/ArduinoEmbeddedProjects)**: Experimenting with **hardware** and **low-level programming**.
 - **[ASIC Development](link-to-repository)**: Diving into **ASIC design tools** and exploring **hardware customization**.
-- **[TinyML Projects](link-to-repository)**: Deploying **machine learning models** on **microcontrollers** for edge computing.
+- **[TinyML Projects](https://github.com/Tshepangnkwe/EnergyNest)**: Deploying **machine learning models** on **microcontrollers** for edge computing.
 
 ---
 
