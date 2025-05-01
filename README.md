@@ -8,7 +8,7 @@
 🔧 I'm a curious mind diving into electronics, from basic circuits and **C/C++** to building smarter, sustainable tech with **embedded systems** and **TinyML**.  Experimenting with **hardware** and **low-level programming**. Diving into **ASIC design tools** and exploring **hardware customization**. Deploying **machine learning models** on **microcontrollers** for edge computing.
 
 ## 🌱 What I'm Learning 
-- **Scientific Computing with Python**
+- **C/C++**
 - Low-power systems
 - Machine learning at the edge
 - Sensors and Sensor Circuit Design 
