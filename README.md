@@ -2,7 +2,7 @@
 **Electronics enthusiast** | Exploring **Embedded Systems**, **ASICs**, **SoCs**, and **TinyML**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hardware+%7C+Embedded+Systems+%7C+TinyML+%7C+ASICs" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Embedded+Systems+%7C+TinyML+%7C+ASICs" alt="Typing Animation">
 </p>
 
 🔧 I'm a curious mind diving into electronics, from basic circuits and **C/C++** to building smarter, sustainable tech with **embedded systems** and **TinyML**.  Experimenting with **hardware** and **low-level programming**. Diving into **ASIC design tools** and exploring **hardware customization**. Deploying **machine learning models** on **microcontrollers** for edge computing.
