@@ -1,11 +1,11 @@
 # Hi, I'm Tshepang! 👋  
-**Electronics enthusiast** | Exploring **Embedded Systems**, **ASICs**, **SoCs**, and **TinyML**
+**Electronics enthusiast** | Exploring **Embedded Electronics**, **ASICs**, **SoCs**, and **TinyML**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Embedded+Systems+%7C+TinyML+%7C+ASICs" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Embedded+Electronics+%7C+TinyML+%7C+ASICs" alt="Typing Animation">
 </p>
 
-🔧 Exploring electronics from circuits and C/C++ to embedded systems and TinyML. Working with hardware, low-level programming, and ASIC design tools to build efficient, custom solutions. Deploying ML models on microcontrollers for edge computing.
+🔧 Exploring electronics from circuits and C/C++ to embedded electronics and TinyML. Working with hardware, low-level programming, and ASIC design tools to build efficient, custom solutions. Deploying ML models on microcontrollers for edge computing.
 
 ## 🌱 What I'm Learning 
 - **C/C++**
@@ -14,7 +14,7 @@
 - Sensors and Sensor Circuit Design 
 
 ## 🛠️ Technologies I'm Exploring
-- **Embedded Systems**: From microcontrollers to complex **SoCs**.
+- **Embedded Electronics**: From microcontrollers to complex **SoCs**.
 - **ASICs**: Designing **application-specific integrated circuits**.
 - **TinyML**: Exploring **machine learning models** that run directly on microcontrollers.
 - **C/C++**: Writing optimised code for low-resource environments. 
