@@ -9,6 +9,7 @@
 
 ## 🌱 What I'm Learning 
 - **C/C++**
+- Python 
 - Low-power systems
 - Machine learning at the edge
 - Sensors and Sensor Circuit Design 
