@@ -1,5 +1,5 @@
 # Hi, I'm Tshepang! 👋  
-**Electronics Engineer** | **Embedded Electronic** | **ASICs** | **TinyML**
+**Electronics Enthusiast** | **Embedded Systems** | **ASICs** | **TinyML**
 
 🔧 Building efficient hardware solutions from circuit design to edge AI. Working with microcontrollers, SoCs, and ASIC design tools to create custom embedded systems.
 
@@ -20,4 +20,3 @@
 
 ---
 *"Hardware meets software where the magic happens."* 🛠️
-
