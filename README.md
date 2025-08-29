@@ -1,10 +1,10 @@
 # Hi, I'm Tshepang! 👋  
-**Electronics Enthusiast** | **Embedded Systems** | **ASICs** | **TinyML**
+**Electronics Enthusiast** | **Embedded Electronics** | **ASICs** | **TinyML**
 
 🔧 Building efficient hardware solutions from circuit design to edge AI. Working with microcontrollers, SoCs, and ASIC design tools to create custom embedded systems.
 
 ## 🌱 Currently Learning 
-- **C/C++** for embedded systems
+- **C/C++** for embedded electronics
 - Low-power circuit design
 - Machine learning at the edge
 - ASIC design methodologies
