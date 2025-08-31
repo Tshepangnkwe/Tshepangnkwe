@@ -3,7 +3,7 @@
 
 🔧 Building efficient hardware solutions from circuit design to edge AI. Working with microcontrollers, SoCs, and ASIC design tools to create custom embedded systems.
 
-## 🌱 Currently Learning 
+## 🌱 Currently Exploring 
 - **C/C++** for embedded electronics
 - Low-power circuit design
 - Machine learning at the edge
