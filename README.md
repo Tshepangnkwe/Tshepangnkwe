@@ -13,7 +13,7 @@
 - **Embedded**: Microcontrollers, SoCs, sensor integration
 - **ASICs**: Application-specific integrated circuit design
 - **Embedded Computer Architecture**: CPU/SoC design, pipelines, memory hierarchies
-- **Languages**: C/C++, Go, Assembly 
+- **Languages**: C/C++, Assembly 
 
 ### 📬 Connect
 [LinkedIn](https://www.linkedin.com/in/tshepangnkwe/)
