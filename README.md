@@ -1,22 +1,20 @@
 # Hi, I'm Tshepang! 👋  
-**Electronics Enthusiast** | **Embedded Electronics** | **ASICs** | **Embedded Computer Architecture**
+**Electronics Enthusiast** | **Embedded Software** | **IoT** | **TinyML**
 
-🔍 Exploring and learning efficient hardware solutions from circuit design to system-level architecture. Experimenting with microcontrollers, SoCs, and ASIC design tools to understand and create custom embedded electronics.
+Building intelligent embedded systems with Python and C. Passionate about creating smart solutions where electronics meets software.
 
-## 🌱 Currently Exploring 
-- **C/C++** for embedded electronics
-- Low-power circuit design
-- Embedded computer architecture and system-level design
-- ASIC design methodologies
+## 🌱 Currently Learning 
+- Embedded C programming
+- Python for IoT and ML
+- TinyML fundamentals
+- Microcontroller programming
+- Sensor networks and communication protocols
 
 ## 🛠️ Tech Stack
-- **Embedded**: Microcontrollers, SoCs, sensor integration
-- **ASICs**: Application-specific integrated circuit design
-- **Embedded Computer Architecture**: CPU/SoC design, pipelines, memory hierarchies
-- **Languages**: C/C++, Assembly 
+- **Languages**: C, Python
+- **Focus Areas**: Embedded software, IoT systems, TinyML
 
 ### 📬 Connect
 [LinkedIn](https://www.linkedin.com/in/tshepangnkwe/)
-
 ---
-*"Hardware meets software where the magic happens."* 🛠️
+**"Intelligence at the edge, efficiency at the core." 🤖**
