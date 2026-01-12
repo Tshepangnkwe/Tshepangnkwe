@@ -11,7 +11,7 @@ Building intelligent embedded systems with Python and C. Passionate about creati
 - Sensor networks and communication protocols
 
 ## 🛠️ Tech Stack
-- **Languages**: C, Python
+- **Languages**: C, Python, Go
 - **Focus Areas**: Embedded software, IoT systems, TinyML
 
 ### 📬 Connect
