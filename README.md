@@ -1,20 +1,25 @@
 # Hi, I'm Tshepang! 👋  
-**Electronics Enthusiast** | **Embedded Software** | **IoT** | **TinyML**
 
-Building intelligent embedded systems with Python and C. Passionate about creating smart solutions where electronics meets software.
+**Electronics Enthusiast** | **Embedded Electronics** | **Firmware Development**
+
+I'm interested in embedded electronics and firmware. I enjoy working with microcontrollers and learning about embedded computer architecture.
 
 ## 🌱 Currently Learning 
-- Embedded C programming
-- Python for IoT and ML
-- TinyML fundamentals
-- Microcontroller programming
-- Sensor networks and communication protocols
+- C/C++ for embedded applications
+- Firmware development
+- Circuit design and PCB layout
+- Embedded computer architecture
+- Low-level hardware programming
 
-## 🛠️ Tech Stack
-- **Languages**: C, Python, Go
-- **Focus Areas**: Embedded software, IoT systems, TinyML
+## 🛠️ Tools & Technologies
+- Microcontrollers and development boards
+- Circuit design and PCB layout
+- C/C++ programming
+- Assembly language
+- Embedded debugging tools
 
 ### 📬 Connect
 [LinkedIn](https://www.linkedin.com/in/tshepangnkwe/)
+
 ---
-**"Intelligence at the edge, efficiency at the core." 🤖**
+*"Building at the hardware-software interface."* 🛠️
