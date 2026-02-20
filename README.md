@@ -17,7 +17,8 @@ I am a foundational developer building a career in systems architecture and inte
 
 ## 🚀 Projects
 
-### **RoomNest** *Winner of the Leopards Lair Business Competition (NWU)* A student accommodation platform serving South Africa. 
+### **RoomNest:** Winner of the Leopards Lair Business Competition (NWU) 
+An award-winning property management platform that digitizes the student housing lifecycle through high-concurrency lease tracking, digital signatures, and automated rent management. 
 - **Stack:** Built with a high-performance **Go (Gin)** backend and **Next.js**.
 - **Features:** Real-time lease management, digital signatures, and automated rent tracking.
 - **Link:** [roomnest.co.za](https://roomnest.co.za)
