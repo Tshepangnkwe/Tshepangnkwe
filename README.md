@@ -23,14 +23,18 @@ An award-winning property management platform that digitizes the student housing
 - **Features:** Real-time lease management, digital signatures, and automated rent tracking.
 - **Link:** [roomnest.co.za](https://roomnest.co.za)
 
-### **LogBook**
+### **LogBook (In Progress)** 
 A SaaS infrastructure project focused on documenting professional growth and learning velocity.
 - **Stack:** Backend developed in **Go (Gin)** with **JWT** security protocols.
 - **Focus:** Practicing clean API architecture and secure user authentication.
 
+### **OmniStream IoT (In Progress)**
+A real-time task automation gateway for IoT sensor networks.
+- **Ingestion:** High-speed telemetry ingestion via **Go** using **MQTT/WebSockets**.
+- **Automation:** A **Python** worker service that analyzes sensor data to trigger automated responses (e.g., alert dispatching or device state changes).
+- **Storage:** Time-series data management in **PostgreSQL**.
 
-
-### **Smart Ticket Triage (In Progress)**
+### **LogicFlow (In Progress)**
 An automation service designed for intelligent support ticket classification and routing.
 - **Stack:** Core ingestion gateway built in **Go**.
 - **Intelligence:** Integrating **Python** microservices for ML-based classification.
