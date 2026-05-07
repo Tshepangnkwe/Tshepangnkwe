@@ -2,7 +2,7 @@
 
 **Go Backend Engineer** | **API Architect** | **Systems & IoT Developer**
 
-Building high-performance APIs with Go (Gin), networked systems, IoT integrations, and Linux infrastructure. Specializing in message queues, network protocols, and efficient backend services.
+Building high-performance APIs with Go (Gin), networked systems, IoT integrations, and Linux infrastructure. 
 
 ## 🌱 Currently Learning 
 - Network programming (TCP/UDP, Wireshark analysis)
@@ -18,15 +18,6 @@ Building high-performance APIs with Go (Gin), networked systems, IoT integration
 - TCP/UDP - Wireshark - MQTT - RabbitMQ - HTTP/2 - Protocol debugging
 - Linux (strace, perf tools) - PostgreSQL (sqlc) - Redis - Docker
 - OpenAPI/Swagger - JWT/OAuth2 - Rate limiting - Prometheus - Grafana
-
-## 🔥 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Configg** | Remote config & feature flags API | Go Gin, PostgreSQL, Redis, SSE |
-| **SplitTab** | Shared expense splitting engine | Go, PostgreSQL, Debt minimization |
-| **MockAPI** | Dynamic mock API server | Go Gin, Dynamic routing, JSONB |
-| **DocuParse** | Document processing API: Upload PDF/CSV/Excel, extract structured data via configurable mappings, async webhook delivery | Go, PostgreSQL, R2/S3, River, Gin |
 
 ## 🔌 IoT & Messaging Focus
 
