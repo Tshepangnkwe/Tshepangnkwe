@@ -8,8 +8,7 @@ I'm a computer science student learning by building. I'm drawn to how software w
 |---------|-------------|------------|
 | **Configg** | Remote config & feature flags API | Go, Gin, PostgreSQL, Redis, SSE |
 | **SplitTab** | Shared expense splitting engine | Go, Gin, PostgreSQL, Debt minimization |
-| **MockAPI** | Dynamic mock API server | Go, Gin, Dynamic routing, JSONB |
-| **DocuParse** | PDF/CSV/Excel processing with async webhook delivery | Go, Gin, PostgreSQL, R2/S3, River |
+| **MockAPI** | Dynamic mock API server | Go, Gin, Dynamic routing, JSONB 
 
 ## 🌱 Currently Learning
 - **Go** — building APIs and learning the language deeply
