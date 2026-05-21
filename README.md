@@ -1,14 +1,13 @@
 # Hi, I'm Tshepang! 👋
-**CS Student** | **Building with Go** | **Curious about Systems & IoT**
+**Building with Go** | **Curious about Systems & IoT**
 
 I'm a computer science student learning by building. I'm drawn to how software works at a low level — networks, protocols, operating systems, and connected devices.
 
 ## 🔥 Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Configg** | Remote config & feature flags API | Go, Gin, PostgreSQL, Redis, SSE |
+| **SnaggPulse** | Local-first IoT hub for agricultural monitoring with edge-based analytics | Go, Python, MQTT, |
 | **SplitTab** | Shared expense splitting engine | Go, Gin, PostgreSQL, Debt minimization |
-| **MockAPI** | Dynamic mock API server | Go, Gin, Dynamic routing, JSONB 
 
 ## 🌱 Currently Learning
 - **Go** — building APIs and learning the language deeply
