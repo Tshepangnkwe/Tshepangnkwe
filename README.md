@@ -7,7 +7,6 @@ I'm a computer science student learning by building. I'm drawn to how software w
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **SnaggPulse** | Local-first IoT hub for agricultural monitoring with edge-based analytics | Go, Python, MQTT, |
-| **SplitTab** | Shared expense splitting engine | Go, Gin, PostgreSQL, Debt minimization |
 
 ## 🌱 Currently Learning
 - **Go** — building APIs and learning the language deeply
