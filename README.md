@@ -11,7 +11,7 @@ I'm a computer science student learning by building. I'm drawn to how software w
 ## 🌱 Currently Learning
 - **Go** — building APIs and learning the language deeply
 - **Linux & Bash** — getting comfortable with the command line
-- **Network programming** — TCP/UDP, Wireshark, how protocols work
+- **Network programming** — TCP/UDP, how protocols work
 - **IoT** — MQTT, device communication, connecting hardware to software
 
 ## 🌍 Connect
