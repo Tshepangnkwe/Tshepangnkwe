@@ -1,21 +1,25 @@
-# Hi, I'm Tshepang! 👋
-**Building with Go** | **Curious about Systems & IoT**
+# Hi, I'm Tshepang! 👋  
 
-I'm a computer science student learning by building. I'm drawn to how software works at a low level — networks, protocols, operating systems, and connected devices.
+**Electronics Enthusiast** | **Embedded Electronics** | **Firmware Development**
 
-## 🔥 Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **SnaggPulse** | Local-first IoT hub for agricultural monitoring with edge-based analytics | Go, Python, MQTT, |
+I'm interested in embedded electronics and firmware. I enjoy working with microcontrollers and learning about embedded computer architecture.
 
-## 🌱 Currently Learning
-- **Go** — building APIs and learning the language deeply
-- **Linux & Bash** — getting comfortable with the command line
-- **Network programming** — TCP/UDP, how protocols work
-- **IoT** — MQTT, device communication, connecting hardware to software
+## 🌱 Currently Learning 
+- C/C++ for embedded applications
+- Firmware development
+- Circuit design and PCB layout
+- Embedded computer architecture
+- Low-level hardware programming
 
-## 🌍 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tshepangnkwe/)
+## 🛠️ Tools & Technologies
+- Microcontrollers and development boards
+- Circuit design and PCB layout
+- C/C++ programming
+- Assembly language
+- Embedded debugging tools
+
+### 📬 Connect
+[LinkedIn](https://www.linkedin.com/in/tshepangnkwe/)
 
 ---
-*"Learning by building."* 🛠️
+*"Building at the hardware-software interface."* 🛠️
