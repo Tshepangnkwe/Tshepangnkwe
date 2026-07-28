@@ -2,24 +2,27 @@
 
 **Electronics Enthusiast** | **Embedded Electronics** | **Firmware Development**
 
-I'm interested in embedded electronics and firmware. I enjoy working with microcontrollers and learning about embedded computer architecture.
+I'm a computer science student learning by building. I'm drawn to how software works at a low level — networks, protocols, operating systems, and connected devices.
+
+## 🔥 Projects  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **SnaggLinq** | Terminal-first engineering productivity tool: log work, track tasks, capture notes, and visualise a knowledge graph of your engineering output — backed by Neon PostgreSQL | Go, Bash, PostgreSQL (Neon), SQL |
 
 ## 🌱 Currently Learning 
-- C/C++ for embedded applications
-- Firmware development
-- Circuit design and PCB layout
-- Embedded computer architecture
-- Low-level hardware programming
+- Go — building APIs and systems-level software  
+- IoT — MQTT, device communication, sensor networks  
+- Networking — TCP/UDP, protocols, and network programming  
 
-## 🛠️ Tools & Technologies
-- Microcontrollers and development boards
-- Circuit design and PCB layout
-- C/C++ programming
-- Assembly language
-- Embedded debugging tools
+## 🛠️ Tools & Technologies  
+- Go programming  
+- IoT platforms and protocols (MQTT, HTTP)  
+- Network programming and debugging  
+- Linux & Bash  
+- PostgreSQL (Neon)  
 
-### 📬 Connect
-[LinkedIn](https://www.linkedin.com/in/tshepangnkwe/)
+### 📬 Connect  
+[LinkedIn](https://www.linkedin.com/in/tshepangnkwe/)  
 
----
+---  
 *"Building at the hardware-software interface."* 🛠️
