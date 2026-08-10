@@ -9,7 +9,7 @@ I'm a software and infrastructure developer learning by building. I'm drawn to h
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **SnaggLinq** | Terminal-first engineering productivity tool for logging work, tracking tasks, capturing notes, and visualising a knowledge graph of engineering output, backed by Neon PostgreSQL | Go, Bash, PostgreSQL (Neon), SQL |
-| **NodePulse** | IoT infrastructure platform inspired by Particle.io that bridges low-level hardware devices such as ESP32, STM32, and Raspberry Pi with high-concurrency Go backend systems. Provides cloud control-plane infrastructure for device-fleet registration, high-frequency telemetry ingestion, asynchronous state deltas through Device Shadows, real-time heartbeats, and rolling Over-The-Air (OTA) firmware updates | Go, ESP32, STM32, Raspberry Pi, Device Shadows, Go worker pools, OTA updates |
+| **EdgeRelay** | Edge IoT gateway that connects Raspberry Pi and ESP32 devices, communicates through MQTT, buffers telemetry during network interruptions, and synchronises device data with a central Go backend | Go, MQTT, Raspberry Pi, ESP32, PostgreSQL, Docker |
 
 ## 🌱 Currently Learning
 
